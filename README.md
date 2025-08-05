@@ -8,7 +8,7 @@ A simple and elegant **Weather App** built using **HTML**, **CSS**, and **JavaSc
 ## 📸 Screenshot
 
 <div align="center">
-  <img src="./screenshot.png" alt="Weather App Screenshot" width="500"/>
+  <img src="./screenshot.png" alt="Weather App Screenshot" width="500" height="550"/>
 </div>
 
 ---
@@ -39,21 +39,26 @@ A simple and elegant **Weather App** built using **HTML**, **CSS**, and **JavaSc
    ```
 2. Navigate to the project folder
 3. Open index.html in your browser
-4. ⚠️ Make sure you have an internet connection to fetch API data.
+   ⚠️ Make sure you have an internet connection to fetch API data.
 
 ---
+
 ## 🧑‍💻 Author
 
-🔗 [Anuj Singal](https://github.com/anuj-singal)
-<div align="center"> <a href="https://github.com/anuj-singal" target="_blank"> <img src="https://img.shields.io/badge/GitHub-anuj--singal-blue?style=for-the-badge&logo=github" alt="GitHub Profile Badge"/> </a> </div>
+<div> <a href="https://github.com/anuj-singal" target="_blank"> <img src="https://img.shields.io/badge/GitHub-anuj--singal-blue?style=for-the-badge&logo=github" alt="GitHub Profile Badge"/> </a> </div>
+
 ---
+
 
 ## 💬 Feedback
 Feel free to open issues or submit pull requests if you'd like to contribute or suggest improvements!
 
 ---
 
+
 ## ⚖️ License
 This project is licensed under the MIT License.
+
+
 
 
